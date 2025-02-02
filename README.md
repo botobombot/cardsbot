@@ -3,14 +3,19 @@
 
 
 короче. На линухе кали запускается так
+
 sudo apt install python3-venv
+
 python3 -m venv myenv
+
 source myenv/bin/activate
 
 дальше уже если винда, или если в окружении, то прописываем
+
 pip install python-telegram-bot
 
 дальше уже из папочки запускаем
+
 python bot.py
 
 все.
